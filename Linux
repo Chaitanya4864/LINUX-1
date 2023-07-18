@@ -1,0 +1,15 @@
+basic commands
+[200~
+
+rm -rf
+mv
+cat filename
+cat >filename
+cat >>filename
+cat /etc/os-release
+ip a
+clear
+ctr+l
+
+rm -r~
+
